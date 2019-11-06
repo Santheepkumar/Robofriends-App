@@ -1,0 +1,11 @@
+@font-face {
+font-family: "Orbitron";
+src: url("../fonts/Orbitron-Bold.ttf");
+src:
+url("../fonts/Orbitron-Bold.ttf") format("opentype"),
+}
+
+h1{
+	font-family: 'Orbitron', sans-serif;
+	color: #10A881;
+}
