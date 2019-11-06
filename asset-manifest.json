@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robofriends-App/static/css/main.8c190050.chunk.css",
+    "main.js": "/Robofriends-App/static/js/main.7b38fa35.chunk.js",
+    "main.js.map": "/Robofriends-App/static/js/main.7b38fa35.chunk.js.map",
+    "runtime-main.js": "/Robofriends-App/static/js/runtime-main.561bea7d.js",
+    "runtime-main.js.map": "/Robofriends-App/static/js/runtime-main.561bea7d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robofriends-App/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.36d0c395.chunk.js": "/Robofriends-App/static/js/2.36d0c395.chunk.js",
+    "static/js/2.36d0c395.chunk.js.map": "/Robofriends-App/static/js/2.36d0c395.chunk.js.map",
+    "index.html": "/Robofriends-App/index.html",
+    "precache-manifest.f4c05bf7d07c50d579a2fe0889a31fc9.js": "/Robofriends-App/precache-manifest.f4c05bf7d07c50d579a2fe0889a31fc9.js",
+    "service-worker.js": "/Robofriends-App/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robofriends-App/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.8c190050.chunk.css.map": "/Robofriends-App/static/css/main.8c190050.chunk.css.map",
+    "static/media/app.css": "/Robofriends-App/static/media/Orbitron-Bold.299eceb8.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.561bea7d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.36d0c395.chunk.js",
+    "static/css/main.8c190050.chunk.css",
+    "static/js/main.7b38fa35.chunk.js"
+  ]
+}
