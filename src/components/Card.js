@@ -16,8 +16,6 @@ const Card = ({name, email, id}) => {
 
 		</div>
 
-
-
 		</div>
 
 
